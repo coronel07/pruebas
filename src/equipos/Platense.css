@@ -1,0 +1,37 @@
+/* Estilo del contenedor principal */
+.platense-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #6c424e; /* Color amarillo */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+/* Título principal */
+.platense-title {
+    font-size: 24px;
+    color: white; /* Color negro */
+}
+
+/* Subtítulo */
+.platense-subtitle {
+    font-size: 20px;
+    color: black; /* Color rojo */
+    margin-top: 20px; /* Espacio superior */
+}
+
+/* Texto general */
+.platense-content p {
+    font-size: 16px;
+    color: white; /* Color del texto secundario */
+    line-height: 1.5;
+}
+
+/* Imagen */
+.platense-image {
+    width: 300px; /* Ancho fijo */
+    height: 200px; /* Alto fijo */
+    margin-top: 20px; /* Espacio superior */
+    border-radius: 5px;
+}

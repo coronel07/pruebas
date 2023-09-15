@@ -1,0 +1,36 @@
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.club-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Organiza las fotos en filas de cuatro */
+  gap: 20px; /* Espacio entre las fotos y los nombres */
+}
+
+.club-item {
+  text-align: center; /* Centra el texto */
+  position: relative; /* Añade posición relativa para ajustar los enlaces */
+  padding: 20px; /* Espacio entre la imagen y el borde del contenedor */
+  border: 0px solid #ccc; /* Añade un borde al contenedor */
+}
+
+.club-item img {
+  max-width: 100%; /* Ajusta el tamaño de la imagen al contenedor */
+  height: auto;
+  margin: 0 auto; /* Centra horizontalmente la imagen dentro del contenedor */
+  display: block; /* Elimina cualquier espacio en blanco adicional */
+}
+
+.club-item a {
+  display: block; /* Hace que los nombres estén en una línea debajo de las imágenes */
+  margin-top: -50px; /* Desplaza los enlaces 50px hacia arriba */
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+
+

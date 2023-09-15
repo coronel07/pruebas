@@ -1,0 +1,37 @@
+/* Estilo del contenedor principal */
+.talleres-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1d2ca3; /* Color de fondo */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra */
+    color: white; /* Color del texto */
+  }
+  
+  /* Títulos */
+  .talleres-title {
+    font-size: 24px;
+    margin-bottom: 10px; /* Espacio inferior */
+  }
+  
+  .talleres-subtitle {
+    color: black;
+    font-size: 20px;
+    margin-top: 20px; /* Espacio superior */
+  }
+  
+  /* Texto */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Imagen */
+  .talleres-image {
+    width: 300px; /* Ancho fijo */
+    height: 200px; /* Alto fijo */
+    margin-top: 20px; /* Espacio superior */
+    border-radius: 5px;
+  }
+  

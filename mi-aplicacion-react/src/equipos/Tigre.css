@@ -1,0 +1,39 @@
+.tigre-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #6268ee;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.tigre-title {
+    font-size: 24px;
+
+}
+
+
+.tigre-subtitle {
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+}
+
+
+.tigre-content p {
+    font-size: 16px;
+
+    line-height: 1.5;
+}
+
+
+.tigre-image {
+    width: 300px;
+    /* Ancho fijo */
+    height: 200px;
+    /* Alto fijo */
+    margin-top: 20px;
+    /* Espacio superior */
+    border-radius: 5px;
+}
