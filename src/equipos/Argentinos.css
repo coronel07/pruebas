@@ -1,0 +1,39 @@
+/* ArgentinosJuniors.css */
+
+.argentinos-container {
+  background-color: none; /* Fondo azul claro */
+  padding: 20px;
+}
+
+.argentinos-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #8f1812;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.argentinos-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: black; /* Texto negro */
+}
+
+.argentinos-subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: black; /* Texto negro */
+}
+
+.argentinos-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}

@@ -19,7 +19,7 @@ function Navbar() {
                         <Link to="/Clubes">Clubes</Link>
                     </li>
                     <li>
-                        <Link to="/Estadios">Estadios</Link>
+                        <Link to="/Reglamentos">Reglamentos</Link>
                     </li>
                 </ul>
             </nav>
