@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Clubes.css';
+import './Equipos.css';
 
-function Clubes() {
+function Equipos() {
   const clubes = [
     'Argentinos', 'Arsenal', 'AtléticoTucumán', 'Banfield',
     'BarracasCentral', 'Belgrano', 'Boca', 'CentralCórdoba',
@@ -62,4 +62,4 @@ function Clubes() {
   );
 }
 
-export default Clubes;
+export default Equipos;
