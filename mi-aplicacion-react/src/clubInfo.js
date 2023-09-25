@@ -6,7 +6,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Diego Armando Maradona",
       descripcion: "El Estadio Diego Armando Maradona es el estadio del club y lleva el nombre de la legendaria estrella del fútbol argentino. Es un lugar donde los aficionados se reúnen para apoyar a su equipo en cada partido.",
-      imagen: ""
+      imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Frelatores.com.ar%2Fargentinos-remodelara-el-estadio-diego-armando-maradona-.html&psig=AOvVaw2TZ5XMSfpllwjw_fLS-EoU&ust=1695213985458000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjIi9Ks2raBAxWJQ7gEHVjEDboQjRx6BAgAEAw"
     }
   },
   Arsenal: {
@@ -16,7 +16,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Julio Humberto Grondona",
       descripcion: "El Estadio Julio Humberto Grondona es el estadio del club y lleva el nombre de Julio Humberto Grondona, una figura importante en la administración del fútbol argentino. Es un lugar donde los seguidores de Arsenal se congregan para animar a su equipo.",
-      imagen: ""
+      imagen: "https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/cc9ab256-2f79-4f20-aef4-db884f51036e"
     }
   },
   AtléticoTucumán: {
@@ -26,7 +26,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Monumental José Fierro",
       descripcion: "El Estadio Monumental José Fierro es el estadio del club y ha sido sede de importantes partidos de fútbol. Es un lugar donde los hinchas de Atlético Tucumán se congregan para alentar a su equipo.",
-      imagen: ""
+      imagen: "https://i.ytimg.com/vi/fblPXo1VQfg/maxresdefault.jpg"
     }
   },
   Banfield: {
@@ -36,7 +36,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Florencio Sola",
       descripcion: "El Estadio Florencio Sola es el estadio del club y ha sido testigo de numerosos encuentros de fútbol a lo largo de su historia. Es un lugar emblemático para los seguidores de Banfield.",
-      imagen: ""
+      imagen: "https://i.ytimg.com/vi/solxW6YDeW0/maxresdefault.jpg"
     }
   },
   BarracasCentral: {
@@ -46,7 +46,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Claudio Chiqui Tapia",
       descripcion: "El estadio del club, conocido como Estadio Claudio Chiqui Tapia, es uno de los recintos deportivos más emblemáticos de Argentina. Fue inaugurado el 20 de agosto de 1937 y ha sido testigo de numerosos momentos históricos del fútbol argentino. El estadio lleva el nombre de Claudio 'Chiqui' Tapia, quien es una figura destacada en la administración del fútbol argentino.",
-      imagen: ""
+      imagen: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8afb1e67b3bfd35b/64279c1de55f443779683e6d/01a.png"
     }
   },
   Belgrano: {
@@ -56,7 +56,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Julio César Villagra",
       descripcion: "El Estadio Julio César Villagra, conocido como El Gigante de Alberdi, es el estadio del club. Lleva el nombre de un destacado dirigente de la institución.",
-      imagen: ""
+      imagen: "https://www.belgranocordoba.com/images/noticias/4881.jpg"
     }
   },
   Boca: {
@@ -66,7 +66,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Alberto J. Armando",
       descripcion: "El Estadio Alberto J. Armando, popularmente conocido como La Bombonera, es el icónico estadio del club. Es famoso por su atmósfera única y su pasión por el fútbol.",
-      imagen: ""
+      imagen: "https://statics.eleconomista.com.ar/2023/03/64062d3073bd9.png"
     }
   },
   CentralCórdoba: {
@@ -76,7 +76,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Alfredo Terrera",
       descripcion: "El Estadio Alfredo Terrera es el estadio del club y ha sido sede de importantes partidos de fútbol en la región de Santiago del Estero.",
-      imagen: ""
+      imagen: "https://i.ytimg.com/vi/r9KN3eWcqvs/maxresdefault.jpg"
     }
   },
   Colon: {
@@ -86,7 +86,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Brigadier General Estanislao López",
       descripcion: "El Estadio Brigadier General Estanislao López es el estadio del club y ha sido escenario de numerosos eventos deportivos en Santa Fe.",
-      imagen: ""
+      imagen: "https://upload.wikimedia.org/wikipedia/commons/5/59/Estadio_Brigadier_General_Estanislao_L%C3%B3pez_-_Col%C3%B3n_de_Santa_Fe.jpg"
     }
   },
   DefensayJusticia: {
@@ -96,7 +96,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Norberto Tito Tomaghello",
       descripcion: "El Estadio Norberto Tito Tomaghello es el estadio del club y ha sido escenario de los partidos de Defensa y Justicia en diferentes competencias.",
-      imagen: ""
+      imagen: "https://cdn.rudo.video/upload/us/revistas-perfil/627941/5fbf8f42cf291_0.jpg"
     }
   },
   Estudiantes: {
@@ -106,7 +106,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Jorge Luis Hirschi",
       descripcion: "El Estadio Jorge Luis Hirschi es el estadio del club y ha sido testigo de importantes logros de Estudiantes a nivel nacional e internacional.",
-      imagen: ""
+      imagen: "https://upload.wikimedia.org/wikipedia/commons/2/24/UNO_20220614_210130.jpg"
     }
   },
   Gimnasia: {
@@ -116,7 +116,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Juan Carmelo Zerillo",
       descripcion: "El Estadio Juan Carmelo Zerillo, conocido como El Bosque, es el estadio del club y ha sido escenario de numerosos encuentros de fútbol y otros deportes.",
-      imagen: ""
+      imagen: "https://fotos.perfil.com/2020/10/29/3010canchagimnasiayesgrimalaplata-1068660.jpg"
     }
   },
   GodoyCruz: {
@@ -126,7 +126,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Malvinas Argentinas",
       descripcion: "El Estadio Malvinas Argentinas es el estadio del club y uno de los recintos deportivos más importantes de Mendoza.",
-      imagen: ""
+      imagen: "https://www.ole.com.ar/2021/04/11/ehK4bU325_1200x630__1.jpg"
     }
   },
   Huracan: {
@@ -136,7 +136,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Tomás Adolfo Ducó",
       descripcion: "El Estadio Tomás Adolfo Ducó es el estadio del club y ha sido testigo de la pasión de los hinchas de Huracán a lo largo de los años.",
-      imagen: ""
+      imagen: "https://media.tycsports.com/files/2022/01/05/377929/huracan-tomas-adolfo-duco-cancha-estadio_1440x810_wmk.jpg?v=1"
     }
   },
   Independiente: {
@@ -146,7 +146,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Libertadores de América",
       descripcion: "El Estadio Libertadores de América es el estadio del club y ha sido escenario de numerosas conquistas deportivas de Independiente.",
-      imagen: ""
+      imagen: "https://www.rionegro.com.ar/wp-content/uploads/2021/11/avellaneda-libertadores.jpg"
     }
   },
   Instituto: {
@@ -156,7 +156,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Juan Domingo Perón",
       descripcion: "El Estadio Juan Domingo Perón es el estadio del club y ha sido sede de los partidos de Instituto a lo largo de su historia.",
-      imagen: ""
+      imagen: "https://www.lavoz.com.ar/resizer/RHABG5VclWk3SVEUYy4BYcAl0mY=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/KK3FERQUPRBLFCVVT6X5A37WPI.jfif"
     }
   },
   Lanus: {
@@ -166,7 +166,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
       descripcion: "El Estadio Ciudad de Lanús - Néstor Díaz Pérez es el estadio del club y ha sido escenario de numerosos encuentros de fútbol.",
-      imagen: ""
+      imagen: "https://fotos.perfil.com/2020/11/12/1211estadiolanus-1075716.jpg"
     }
   },
   Newells: {
@@ -176,7 +176,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Marcelo Bielsa",
       descripcion: "El Estadio Marcelo Bielsa es el estadio del club y ha sido testigo de emocionantes encuentros de fútbol en la ciudad de Rosario.",
-      imagen: ""
+      imagen: "https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/01/estadio-newells-rosario5-1-623x480.jpg"
     }
   },
   Platense: {
@@ -186,7 +186,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Ciudad de Vicente López",
       descripcion: "El Estadio Ciudad de Vicente López es el estadio del club y ha sido sede de los partidos de Platense en diferentes categorías del fútbol argentino.",
-      imagen: ""
+      imagen: "https://cap.org.ar/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-19.51.59.jpeg"
     }
   },
   Racing: {
@@ -196,7 +196,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Presidente Juan Domingo Perón",
       descripcion: "El Estadio Presidente Juan Domingo Perón, también conocido como El Cilindro, es el estadio del club y ha sido testigo de importantes logros deportivos de Racing.",
-      imagen: ""
+      imagen: "https://racingmaniacos.com.ar/wp-content/uploads/2023/03/cancha-racing-avellaneda5-609x480.jpg"
     }
   },
   River: {
@@ -206,7 +206,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Monumental",
       descripcion: "El Estadio Monumental es el estadio del club y ha sido escenario de innumerables hazañas deportivas de River Plate.",
-      imagen: ""
+      imagen: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Estadio_M%C3%A2s_Monumental.jpg"
     }
   },
   RosarioCentral: {
@@ -216,7 +216,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Gigante de Arroyito",
       descripcion: "El Estadio Gigante de Arroyito es el estadio del club y ha sido testigo de la pasión de los hinchas de Rosario Central.",
-      imagen: ""
+      imagen: "https://i.ytimg.com/vi/YU8uaVhIdoc/maxresdefault.jpg"
     }
   },
   SanLorenzo: {
@@ -226,7 +226,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Pedro Bidegain",
       descripcion: "El Estadio Pedro Bidegain, también conocido como Nuevo Gasómetro, es el estadio del club y ha sido escenario de importantes eventos deportivos.",
-      imagen: ""
+      imagen: "https://perspectives.com.ar/wp-content/uploads/2022/02/Carrefour.jpg"
     }
   },
   Sarmiento: {
@@ -236,17 +236,17 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Eva Perón",
       descripcion: "El Estadio Eva Perón es el estadio del club y ha sido sede de los partidos de Sarmiento en diferentes categorías del fútbol argentino.",
-      imagen: ""
+      imagen: "https://www.estadiosdeargentina.com.ar/wp-content/uploads/2019/03/cancha-sarmiento-junin11-640x359.jpg"
     }
   },
   Talleres: {
     titulo: "Club Atlético Talleres",
     descripcion: "El Club Atlético Talleres, conocido como Talleres, es un club de fútbol argentino con sede en la ciudad de Córdoba. Fue fundado el 1 de junio de 1913 y es uno de los equipos más representativos de la provincia de Córdoba.",
-    historia: "Talleres es un club con una larga tradición en la ciudad de Córdoba y ha competido en diversas categorías del fútbol argentino. El club ha tenido momentos destacados en su historia y su estadio, el Estadio Mario Alberto Kempes, es un lugar icónico en la provincia.",
+    historia: "Talleres es un club con una larga tradición en la ciudad de Córdoba y ha competido en diversas categorías del fútbol argentino. El club ha tenido momentos destacados en su historia y su estadio, el Estadio actual el Mario Alberto Kempes, es un lugar icónico en la provincia.",
     estadio: {
-      nombre: "Estadio Mario Alberto Kempes",
-      descripcion: "El Estadio Mario Alberto Kempes es el estadio del club y ha sido sede de importantes partidos de fútbol en la provincia de Córdoba.",
-      imagen: ""
+      nombre: "Estadio La Boutique",
+      descripcion: "El Estadio   Mario Alberto Kempes es el estadio del club y ha sido sede de importantes partidos de fútbol en la provincia de Córdoba.",
+      imagen: "https://i.pinimg.com/1200x/c7/c2/80/c7c280fb13edacbeecc0003fabd25693.jpg"
     }
   },
   Tigre: {
@@ -256,27 +256,27 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio José Dellagiovanna",
       descripcion: "El Estadio José Dellagiovanna es el estadio del club y ha sido sede de los partidos de Tigre en diferentes categorías del fútbol argentino.",
-      imagen: ""
+      imagen: "https://pbs.twimg.com/media/FU79ZSvXoAEnra5.jpg:large"
     }
   },
-  Union: {
+  Unión: {
     titulo: "Club Atlético Unión",
     descripcion: "El Club Atlético Unión, conocido como Unión, es un club de fútbol argentino con sede en la ciudad de Santa Fe. Fue fundado el 15 de abril de 1907 y representa a la provincia de Santa Fe en el fútbol argentino.",
     historia: "Unión es el club más representativo de la ciudad de Santa Fe en el fútbol argentino y ha competido en varias temporadas de la Primera División. El club ha tenido una base de seguidores leales que han apoyado al equipo en el Estadio 15 de Abril, que es el hogar del club.",
     estadio: {
       nombre: "Estadio 15 de Abril",
       descripcion: "El Estadio 15 de Abril es el estadio del club y ha sido sede de los partidos de Unión en diferentes categorías del fútbol argentino.",
-      imagen: ""
+      imagen: "https://upload.wikimedia.org/wikipedia/commons/9/93/ESTADIO_15_DE_ABRIL.jpg"
     }
   },
-  Velez: {
+  Vélez: {
     titulo: "Club Atlético Vélez Sársfield",
     descripcion: "El Club Atlético Vélez Sársfield, conocido como Vélez Sársfield o simplemente Vélez, es un club de fútbol argentino con sede en el barrio de Liniers, Buenos Aires. Fue fundado el 1 de enero de 1910 y ha tenido una destacada trayectoria en el fútbol argentino.",
     historia: "Vélez Sársfield es uno de los clubes más exitosos de Argentina y ha ganado numerosos títulos nacionales e internacionales. El club es conocido por su estructura organizativa y su enfoque en el desarrollo de jóvenes talentos. El Estadio José Amalfitani es el hogar del club y ha sido escenario de innumerables logros deportivos.",
     estadio: {
       nombre: "Estadio José Amalfitani",
       descripcion: "El Estadio José Amalfitani es el estadio del club y ha sido escenario de innumerables logros deportivos de Vélez Sársfield.",
-      imagen: ""
+      imagen: "https://velezsarsfield.com.ar/img/contenido/club/cd/estadio-02.jpg "
     }
   }
 };

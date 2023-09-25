@@ -21,9 +21,7 @@ function Navbar() {
                     <li>
                         <Link to="/Reglamentos">Reglamentos</Link>
                     </li>
-                    <li>
-                        <Link to="/Imagenes">Imagenes</Link>
-                    </li>
+                    
                 </ul>
             </nav>
         </div>

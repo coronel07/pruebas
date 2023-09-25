@@ -7,7 +7,7 @@ import Home from "./navs/Home";
 import Equipos from "./navs/Equipos";
 import "./index.css";
 import Clubes from "./Clubes"; // Importa Clubes en lugar de importar club individualmente
-import Imagenes from "./navs/Imagenes";
+
 
 const App = () => {
   return (
@@ -18,8 +18,8 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/Reglamentos" element={<Reglamentos />} />
           <Route path="/Equipos" element={<Equipos />} />
-          <Route path="/Imagenes" element={<Imagenes />} />
-          <Route path="club/:clubName" element={<Clubes />} /> 
+
+          <Route path="club/:clubName" element={<Clubes />} />
         </Routes>
       </div>
     </BrowserRouter>
