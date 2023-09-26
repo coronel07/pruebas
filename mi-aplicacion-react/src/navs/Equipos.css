@@ -1,0 +1,55 @@
+.page-title {
+  text-align: center;
+  padding: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.page-container {
+  max-width: 1500px;
+  margin: auto;
+  box-shadow: 0 10px 50px #000000;
+  background-color: #eeeeee;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px; 
+  padding: 20px;
+  padding-bottom: 50px;
+}
+
+.outer-container{
+  background-color: transparent;
+}
+.title {
+  font-size: 45px;
+  font-weight: bold;
+  color: black; 
+}
+.club-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  background-color: transparent;
+}
+
+
+.club-item {
+  text-align: center;
+  position: relative;
+  padding: 20px;
+}
+
+.club-item img {
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.club-item a {
+  display: block;
+  margin-top: -60px;
+  text-decoration: none;
+  color: #eeeeee;
+  font-size: 25px;
+}
