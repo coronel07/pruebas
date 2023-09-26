@@ -13,7 +13,7 @@ function Clubes() {
         <p>{club.descripcion}</p>
         <p>{club.historia}</p>
         <div style={styles.clubInfo}>
-          <p>Estadio: {club.estadio.nombre}</p>
+          <h3>Estadio: {club.estadio.nombre}</h3>
           <img src={club.estadio.imagen} alt={clubName} style={styles.image} />
           <Link to="/Equipos" style={styles.link}>
             Volver a Equipos
