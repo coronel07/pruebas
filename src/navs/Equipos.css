@@ -1,0 +1,49 @@
+.page-title {
+  text-align: center;
+  padding: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.page-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: #eeeeee;
+  border: 5px;
+  border-color: blueviolet;
+  padding: 20px;
+}
+
+.outer-container{
+  background-color: transparent;
+}
+
+.club-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  background-color: transparent;
+}
+
+
+.club-item {
+  text-align: center;
+  position: relative;
+  padding: 20px;
+}
+
+.club-item img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.club-item a {
+  display: block;
+  margin-top: -50px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #eeeeee;
+  font-size: 25px;
+}

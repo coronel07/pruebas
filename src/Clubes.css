@@ -1,39 +1,37 @@
-/* clubes.css */
-
 .outer-container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
-    color: white;
+    background-color: #eeeeee;
+    color: #eeeeee;
   }
   
   .page-container {
-    background-color: #fff;
+    background-color: #eeeeee;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     text-align: center;
     max-width: 600px;
-    color: white;
+    color: #eeeeee;
   }
   
   h1 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: white;
+    color: #eeeeee;
   }
   
   p {
     font-size: 16px;
     margin-bottom: 20px;
-    color: white;
+    color: #eeeeee;
   }
   
   .club-info {
     margin-top: 20px;
-    color: white;
+    color: #eeeeee;
   }
   
   img {
@@ -43,8 +41,7 @@
   
   Link {
     text-decoration: none;
-    background-color: #007bff;
-    color: #fff;
+    color: #eeeeee;
     padding: 10px 20px;
     border-radius: 5px;
     font-weight: bold;
@@ -52,6 +49,6 @@
   }
   
   Link:hover {
-    background-color: #0056b3;
+    background-color: #eeeeee;
   }
   

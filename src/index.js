@@ -19,7 +19,9 @@ const App = () => {
           <Route path="/Reglamentos" element={<Reglamentos />} />
           <Route path="/Equipos" element={<Equipos />} />
 
+
           <Route path="club/:clubName" element={<Clubes />} />
+
         </Routes>
       </div>
     </BrowserRouter>

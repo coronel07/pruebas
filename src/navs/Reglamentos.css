@@ -1,5 +1,6 @@
 .outer-container {
     padding: 10px 20px; /* Espacio alrededor del contenido */
+    background-color: #fff;
   }
   
   .page-container {
