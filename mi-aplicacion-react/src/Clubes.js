@@ -9,16 +9,16 @@ function Clubes() {
   return (
     <div style={styles.outerContainer}>
       <div style={styles.pageContainer}>
-        <h1>{club.titulo}</h1>
-        <p>{club.descripcion}</p>
+        <h1 style={styles.title}>{club.titulo}</h1>
+        <p style={styles.description}>{club.descripcion}</p>
         <p>{club.historia}</p>
+        <img src={club.estadio.imagen} alt={clubName} style={styles.image} />
         <div style={styles.clubInfo}>
           <h3>Estadio: {club.estadio.nombre}</h3>
-          <img src={club.estadio.imagen} alt={clubName} style={styles.image} />
-          <Link to="/Equipos" style={styles.link}>
-            Volver a Equipos
-          </Link>
         </div>
+        <Link to="/Equipos" style={styles.link}>
+          Volver a Equipos
+        </Link>
       </div>
     </div>
   );
@@ -29,24 +29,41 @@ const styles = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '80vh',
+    minHeight: '80vh',
     backgroundColor: '#2c436f',
+
   },
   pageContainer: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
     backgroundColor: '#eee',
     padding: '50px',
-    borderRadius: '8px',
+    borderRadius: '50px',
     boxShadow: '0 10px 50px #000',
-    textAlign: 'center',
-    maxWidth: '600px',
+    maxWidth: '900px',
     color: '#000000',
+    textAlign: 'center',
+    fontSize: '22px', 
+  },
+  title: {
+    fontSize: '36px', 
+    fontWeight: 'bold',
+    marginBottom: '20px', 
+  },
+  description: {
+    fontSize: '24px', 
+    marginBottom: '20px',
   },
   clubInfo: {
     marginTop: '20px',
+    fontSize: '20px', 
   },
   image: {
-    maxWidth: '100%',
-    height: 'auto',
+    maxWidth: 'auto',
+    height: '300px',
+    marginTop: '20px',
+    borderRadius: '20px',
   },
   link: {
     textDecoration: 'none',
