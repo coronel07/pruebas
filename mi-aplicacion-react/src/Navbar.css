@@ -15,13 +15,12 @@
     color: white;
     padding: 8px;
     border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-  }
-  
+    border-top-right-radius: 15px; 
+}
 
 
 .navbar {
-    background-color: #4a6088;
+    background-color: #1f3a6f;
     padding: 20px;
     position: relative;
     border-bottom-left-radius: 15px;

@@ -46,21 +46,11 @@
   display: block;
 }
 
-.club-link{
-  background-color: transparent;
-  max-width: auto;
-  height: 50px;
-}
-
 .club-item a {
   display: block;
   margin-top: -58px;
   text-decoration: none;
   color: #eeeeee;
   font-size: 25px;
-<<<<<<< HEAD
 
-=======
-  z-index: 2;
->>>>>>> b8ea84efe9586434edc393bc06b54418ceb4e466
 }

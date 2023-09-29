@@ -6,7 +6,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Diego Armando Maradona",
       descripcion: "El Estadio Diego Armando Maradona es el estadio del club y lleva el nombre de la legendaria estrella del fútbol argentino. Es un lugar donde los aficionados se reúnen para apoyar a su equipo en cada partido.",
-      imagen: "https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/01/estadio-argentinos-juniors2-740x416.jpg"
+      imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Frelatores.com.ar%2Fargentinos-remodelara-el-estadio-diego-armando-maradona-.html&psig=AOvVaw2TZ5XMSfpllwjw_fLS-EoU&ust=1695213985458000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjIi9Ks2raBAxWJQ7gEHVjEDboQjRx6BAgAEAw"
     }
   },
   Arsenal: {
@@ -79,7 +79,7 @@ const clubInfo = {
       imagen: "https://i.ytimg.com/vi/r9KN3eWcqvs/maxresdefault.jpg"
     }
   },
-  Colón: {
+  Colon: {
     titulo: "Club Atlético Colón",
     descripcion: "El Club Atlético Colón, conocido como Colón, es un club de fútbol argentino con sede en la ciudad de Santa Fe. Fue fundado el 5 de mayo de 1905 y es uno de los equipos más emblemáticos de la provincia de Santa Fe.",
     historia: "Colón es un club con una larga tradición en la ciudad de Santa Fe y ha competido en varias temporadas de la Primera División. El club ha tenido una fuerte conexión con su comunidad y su estadio, el Estadio Brigadier General Estanislao López, es un lugar de encuentro para los aficionados.",
