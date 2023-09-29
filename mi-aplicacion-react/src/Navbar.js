@@ -20,7 +20,7 @@ function Navbar() {
                     <li>
                         <Link to="/Reglamentos">Reglamentos</Link>
                     </li>
-                    
+                    <li><Link to="/juegos">JUEGO</Link></li>
                 </ul>
             </nav>
         </div>

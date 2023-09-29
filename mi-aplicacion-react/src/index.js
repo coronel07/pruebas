@@ -6,7 +6,8 @@ import Reglamentos from "./navs/Reglamentos";
 import Home from "./navs/Home";
 import Equipos from "./navs/Equipos";
 import "./index.css";
-import Clubes from "./Clubes"; // Importa Clubes en lugar de importar club individualmente
+import Clubes from "./Clubes";
+import Juegos from './Juegos';
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="/Reglamentos" element={<Reglamentos />} />
           <Route path="/Equipos" element={<Equipos />} />
           <Route path="club/:clubName" element={<Clubes />} />
+          <Route path="juegos" element={<Juegos />} />
         </Routes>
       </div>
     </BrowserRouter>

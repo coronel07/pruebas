@@ -58,7 +58,7 @@ function Equipos() {
           ))}
         </div>
       </div>
-    </div>
+      </div>
   );
 }
 
