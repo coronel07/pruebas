@@ -1,17 +1,13 @@
-
 /* Estilo del contenedor del iframe */
 #iframeContainer {
   border: 2px solid black;
-  /* Color del borde y grosor */
   border-radius: 10px;
-  /* Bordes redondeados */
   overflow: hidden;
-  /* Oculta contenido que se desborda */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  /* Sombra */
   margin: auto;
   width: 850px;
   height: 500px;
+  background-color: white; /* Fondo rojo */
 }
 
 /* Estilo del iframe */
@@ -23,8 +19,7 @@
 
 /* Estilo del botón de reseteo (opcional) */
 #resetButton {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   display: block;
   margin: 10px auto;
   padding: 14px 28px;
@@ -53,36 +48,34 @@
 
 /* Estilos para los títulos dentro del cuadro */
 .cuadro-amarillo h3 {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-  monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   font-size: 12px;
   margin-top: 0;
 }
 
 /* Estilos para los párrafos dentro del cuadro */
 .cuadro-amarillo p {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-  monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   margin: 5px 0;
 }
 
-.control{
+.control {
   height: 400px;
   width: 800px;
   display: inline;
 }
 
-.Flechas{
+.Flechas {
   height: 50px;
   width: 50px;
   display: inline;
 }
 
-.zzz{
+.zzz {
   display: inline;
 }
 
-.martillo{
+.martillo {
   margin-bottom: -12px;
   height: 45px;
   width: 40px;
@@ -90,25 +83,28 @@
 }
 
 .titulo-juego {
-  font: bold 80px;
+  font: bold 200; /* Aumenté el tamaño de la fuente a 100px */
   text-transform: uppercase;
   color: #c69c1e;
   text-shadow: 0  2px  0   #ffbf00,
-               0  4px  0   #c2981a,
-               0  6px  0   #9c6a0f, 
-               0  8px  0   #c8730a, 
-              3px 8px 15px rgba(0,0,0,0.1),
-              3px 8px  5px rgba(0,0,0,0.3);
+                0  4px  0   #c2981a,
+                0  6px  0   #9c6a0f, 
+                0  8px  0   #c8730a, 
+                3px 8px 15px rgba(0,0,0,0.1),
+                3px 8px  5px rgba(0,0,0,0.3);
+  
 }
 
-.containerGame{
+.containerGame {
   padding: 15px;
 }
 
-.barra{
+.barra {
   padding-top: 10px;
-  background-image: url('https://img.freepik.com/foto-gratis/fondo-acuarela-verde_95678-443.jpg'); /* Reemplaza con la ruta de tu imagen de fondo */
+  /*fondo*/
+  background-color: #2c436f;
   background-size: cover;
   background-position: center;
   text-align: center;
+
 }
