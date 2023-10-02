@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     width: 100%;
+    position: relative; 
 }
-
 
 .liga {
     background-color: #536b98;
@@ -15,16 +15,24 @@
     color: white;
     padding: 8px;
     border-top-left-radius: 15px;
-    border-top-right-radius: 15px; 
+    border-top-right-radius: 15px;
+    cursor: pointer;
+    transition: all 1s ease;
+    z-index: 1; 
 }
-
 
 .navbar {
     background-color: #1f3a6f;
     padding: 20px;
     position: relative;
     border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px; 
+    border-bottom-right-radius: 15px;
+    margin-top: -50px; 
+    transition: all 1s ease;
+}
+
+.navbar.active {
+    margin-top: 0; 
 }
 
 .nav-list {
@@ -34,6 +42,10 @@
     gap: 20px;
     margin: 0;
     padding: 0;
+}
+
+.liga:hover .open-text {
+    display: block; 
 }
 
 .nav-list li {

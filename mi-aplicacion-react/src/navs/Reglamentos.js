@@ -10,7 +10,7 @@ function Reglamentos() {
     'Reglamento Torneos LPF 2021', 'Reglamento Copa Diego A. Maradona'
   ];
 
-  // Objeto que asocia el nombre del reglamento con su URL de imagen
+
   const img = {
     'Reglamento General': 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/tapa-Reglamentos-scaled.jpg',
     'Reglamento Requisitos Mínimos y Control Económico Financiero': 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/tapa-Reglamentos-scaled.jpg',
@@ -24,7 +24,7 @@ function Reglamentos() {
     'Reglamento Copa Diego A. Maradona': 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/tapa-Reglamentos-scaled.jpg',
   };
 
-  // Objeto que asocia el nombre del reglamento con su URL de documento PDF
+  
   const pdfLinks = {
     'Reglamento General': 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/Reglamento-General-LPF.pdf',
     'Reglamento Requisitos Mínimos y Control Económico Financiero': 'https://www.ligaprofesional.ar/wp-content/uploads/2023/01/Reglamento-Requisitos-Minimos-y-Control-Eco-Fin-LPF-2023.pdf',

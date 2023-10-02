@@ -18,13 +18,13 @@
   }
 
   h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 45px;
+    margin: 10px;
     color: #eeeeee;
   }
   
   p {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 20px;
     color: #eeeeee;
   }
@@ -38,18 +38,3 @@
     max-width: 80%;
     height: auto;
   }
-  
-  Link {
-    text-decoration: none;
-    color: #eeeeee;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s;
-  }
-  
-  Link:hover {
-    background-color: #eeeeee;
-    transform: translateY(-100px);
-  }
-  

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import "./Superclasico.css"
-import { Tooltip as ReactTooltip } from "react-tooltip";
+
 
 
 
@@ -34,7 +34,7 @@ function Solaris() {
           {mostrarTuto && (
             <div id="tuto-text">
               <div class="cuadro-amarillo">
-                <img className="control" src="https://mail.google.com/mail/u/0?ui=2&ik=73e40d6e34&attid=0.1&permmsgid=msg-f:1778291616378279955&th=18adc2cda5485813&view=att&disp=safe&realattid=f_ln39ramu0"></img>
+                <img className="control" src="https://ibb.co/VNwHXLy"></img>
               </div>
             </div>
           )}

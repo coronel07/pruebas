@@ -6,7 +6,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Diego Armando Maradona",
       descripcion: "El Estadio Diego Armando Maradona es el estadio del club y lleva el nombre de la legendaria estrella del fútbol argentino. Es un lugar donde los aficionados se reúnen para apoyar a su equipo en cada partido.",
-      imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Frelatores.com.ar%2Fargentinos-remodelara-el-estadio-diego-armando-maradona-.html&psig=AOvVaw2TZ5XMSfpllwjw_fLS-EoU&ust=1695213985458000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjIi9Ks2raBAxWJQ7gEHVjEDboQjRx6BAgAEAw"
+      imagen: "https://media.tycsports.com/files/2020/03/29/93639/amalfitani.jpg"
     }
   },
   Arsenal: {
@@ -26,7 +26,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Monumental José Fierro",
       descripcion: "El Estadio Monumental José Fierro es el estadio del club y ha sido sede de importantes partidos de fútbol. Es un lugar donde los hinchas de Atlético Tucumán se congregan para alentar a su equipo.",
-      imagen: "https://i.ytimg.com/vi/fblPXo1VQfg/maxresdefault.jpg"
+      imagen: "https://i.pinimg.com/1200x/bc/90/d3/bc90d3afb9c965b3049228ac363e286a.jpg"
     }
   },
   Banfield: {
@@ -79,7 +79,7 @@ const clubInfo = {
       imagen: "https://i.ytimg.com/vi/r9KN3eWcqvs/maxresdefault.jpg"
     }
   },
-  Colon: {
+  Colón: {
     titulo: "Club Atlético Colón",
     descripcion: "El Club Atlético Colón, conocido como Colón, es un club de fútbol argentino con sede en la ciudad de Santa Fe. Fue fundado el 5 de mayo de 1905 y es uno de los equipos más emblemáticos de la provincia de Santa Fe.",
     historia: "Colón es un club con una larga tradición en la ciudad de Santa Fe y ha competido en varias temporadas de la Primera División. El club ha tenido una fuerte conexión con su comunidad y su estadio, el Estadio Brigadier General Estanislao López, es un lugar de encuentro para los aficionados.",
@@ -106,7 +106,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Jorge Luis Hirschi",
       descripcion: "El Estadio Jorge Luis Hirschi es el estadio del club y ha sido testigo de importantes logros de Estudiantes a nivel nacional e internacional.",
-      imagen: "https://upload.wikimedia.org/wikipedia/commons/2/24/UNO_20220614_210130.jpg"
+      imagen: "https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/522/0000522519.jpg"
     }
   },
   Gimnasia: {
@@ -129,7 +129,7 @@ const clubInfo = {
       imagen: "https://www.ole.com.ar/2021/04/11/ehK4bU325_1200x630__1.jpg"
     }
   },
-  Huracan: {
+  Huracán: {
     titulo: "Club Atlético Huracán",
     descripcion: "El Club Atlético Huracán, conocido como Huracán, es un club de fútbol argentino con sede en el barrio de Parque Patricios, Buenos Aires. Fue fundado el 1 de noviembre de 1908 y ha tenido una larga historia en el fútbol argentino.",
     historia: "Huracán es un club con una historia rica y ha competido en varias temporadas de la Primera División. El Estadio Tomás Adolfo Ducó es el lugar donde los seguidores de Huracán se reúnen para alentar a su equipo y ha sido testigo de la pasión de los hinchas a lo largo de los años.",
@@ -146,7 +146,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Libertadores de América",
       descripcion: "El Estadio Libertadores de América es el estadio del club y ha sido escenario de numerosas conquistas deportivas de Independiente.",
-      imagen: "https://www.rionegro.com.ar/wp-content/uploads/2021/11/avellaneda-libertadores.jpg"
+      imagen: "https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/jpg/2021/11/526325.jpg"
     }
   },
   Instituto: {
@@ -159,7 +159,7 @@ const clubInfo = {
       imagen: "https://www.lavoz.com.ar/resizer/RHABG5VclWk3SVEUYy4BYcAl0mY=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/KK3FERQUPRBLFCVVT6X5A37WPI.jfif"
     }
   },
-  Lanus: {
+  Lanús: {
     titulo: "Club Atlético Lanús",
     descripcion: "El Club Atlético Lanús, conocido como Lanús, es un club de fútbol argentino con sede en Lanús, Buenos Aires. Fue fundado el 3 de enero de 1915 y ha tenido un papel destacado en el fútbol argentino.",
     historia: "Lanús es un club con una larga tradición en el fútbol argentino y ha competido en varias temporadas de la Primera División. El Estadio Ciudad de Lanús - Néstor Díaz Pérez es el lugar donde los seguidores de Lanús se reúnen para apoyar a su equipo y ha sido escenario de numerosos encuentros de fútbol.",
@@ -176,7 +176,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Marcelo Bielsa",
       descripcion: "El Estadio Marcelo Bielsa es el estadio del club y ha sido testigo de emocionantes encuentros de fútbol en la ciudad de Rosario.",
-      imagen: "https://www.estadiosdeargentina.com.ar/wp-content/uploads/2014/01/estadio-newells-rosario5-1-623x480.jpg"
+      imagen: "https://www.cadena3.com/admin/playerswf/fotos/ARCHI_933523.jpg"
     }
   },
   Platense: {
@@ -196,7 +196,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Presidente Juan Domingo Perón",
       descripcion: "El Estadio Presidente Juan Domingo Perón, también conocido como El Cilindro, es el estadio del club y ha sido testigo de importantes logros deportivos de Racing.",
-      imagen: "https://racingmaniacos.com.ar/wp-content/uploads/2023/03/cancha-racing-avellaneda5-609x480.jpg"
+      imagen: "https://i.ytimg.com/vi/ijVAsYi1IYw/maxresdefault.jpg"
     }
   },
   River: {
@@ -226,7 +226,7 @@ const clubInfo = {
     estadio: {
       nombre: "Estadio Pedro Bidegain",
       descripcion: "El Estadio Pedro Bidegain, también conocido como Nuevo Gasómetro, es el estadio del club y ha sido escenario de importantes eventos deportivos.",
-      imagen: "https://perspectives.com.ar/wp-content/uploads/2022/02/Carrefour.jpg"
+      imagen: "https://elcrackdeportivo.com.ar/u/fotografias/m/2023/4/5/f1280x720-95886_227561_4635.jpg"
     }
   },
   Sarmiento: {

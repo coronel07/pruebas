@@ -52,6 +52,7 @@ function Equipos() {
         <div className="club-grid">
           {clubes.map((club, index) => (
             <div key={index} className="club-item">
+           
               <img src={clubImages[club]} alt={club} />
               <Link to={`/club/${club}`}>{club}</Link>
             </div>

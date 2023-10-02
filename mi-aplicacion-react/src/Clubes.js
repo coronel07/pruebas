@@ -1,10 +1,20 @@
-import React from 'react';
-import { Link, useParams } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { Link, useParams, useNavigate } from 'react-router-dom';
 import clubInfo from './clubInfo';
 
 function Clubes() {
   const { clubName } = useParams();
   const club = clubInfo[clubName];
+  const navigate = useNavigate();
+
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  const handleVolverClick = () => {
+    navigate(-1);
+  };
 
   return (
     <div style={styles.outerContainer}>
@@ -13,11 +23,11 @@ function Clubes() {
         <p>{club.descripcion}</p>
         <p>{club.historia}</p>
         <div style={styles.clubInfo}>
-          <p>Estadio: {club.estadio.nombre}</p>
           <img src={club.estadio.imagen} alt={clubName} style={styles.image} />
-          <Link to="/Equipos" style={styles.link}>
+          <h3>Estadio: {club.estadio.nombre}</h3>
+          <button onClick={handleVolverClick} style={styles.link}>
             Volver a Equipos
-          </Link>
+          </button>
         </div>
       </div>
     </div>
@@ -26,38 +36,47 @@ function Clubes() {
 
 const styles = {
   outerContainer: {
+    padding: '105px',
     display: 'flex',
+    height: '500px',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '80vh',
     backgroundColor: '#2c436f',
   },
+  
   pageContainer: {
     backgroundColor: '#eee',
     padding: '50px',
-    borderRadius: '8px',
+    borderRadius: '50px',
     boxShadow: '0 10px 50px #000',
     textAlign: 'center',
     maxWidth: '600px',
+    minHeight: 'auto', 
     color: '#000000',
+    fontSize: '20px',
   },
+  
   clubInfo: {
-    marginTop: '20px',
+    marginTop: '10px',
   },
+  
   image: {
-    maxWidth: '100%',
-    height: 'auto',
+    maxHeight: '250px',
+    height: 'auto'
   },
+  
   link: {
-    textDecoration: 'none',
+    textDecoration: 'none', 
     backgroundColor: '#2c436f',
-    color: '#fff',
-    boxShadow: '0 10px 100px #000',
-    padding: '10px 20px',
+    color: '#eee',
+    boxShadow: '0 10px 20px rgba(0, 0, 0, 0.4)', 
+    padding: '12px 24px', 
     borderRadius: '5px',
-    fontWeight: 'bold',
-    transition: 'background-color 0.3s',
-  },
-};
+    borderColor: 'transparent',
+    fontWeight: 'bold', 
+    fontSize: '20px',
+    cursor: 'pointer',
+  }
+};  
 
 export default Clubes;

@@ -6,51 +6,58 @@
 }
 
 .page-container {
-  max-width: 1500px;
-  margin: auto;
+  max-width: 85%;
+  margin: 0 auto; 
   box-shadow: 0 10px 50px #000000;
   background-color: #eeeeee;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px; 
+  border-bottom-left-radius: 50px; 
+  border-bottom-right-radius: 50px;
   padding: 20px;
   padding-bottom: 50px;
+  margin-left: 64px; 
+  margin-right: 64px; 
 }
 
-.outer-container{
+.outer-container {
   background-color: transparent;
 }
+
 .title {
   font-size: 45px;
   font-weight: bold;
   color: black; 
 }
+
 .club-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr)); 
   gap: 20px;
   background-color: transparent;
 }
-
 
 .club-item {
   text-align: center;
   position: relative;
   padding: 20px;
+  max-width: 300px; 
+  margin: auto; 
 }
 
 .club-item img {
   border-radius: 20px;
   max-width: 100%;
   height: auto;
-  margin: 0 auto;
   display: block;
+  margin: 0 auto; 
+  border: 3px solid black; 
 }
-
 .club-item a {
   display: block;
-  margin-top: -58px;
+  margin-Top: -58px;
+  background-color: black;
   text-decoration: none;
   color: #eeeeee;
   font-size: 25px;
-
 }

@@ -1,6 +1,8 @@
 .outer-container {
-    padding: 10px 20px; 
+    padding: 30px 20px; 
     background-color: #fff;
+    border-bottom-left-radius: 50px; 
+  border-bottom-right-radius: 50px;
   }
   
   .page-container {
@@ -11,7 +13,7 @@
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-between;
-    gap: 20px; 
+    gap: 25px; 
     max-width: 1000px; 
     margin: 0 auto; 
   }
@@ -24,6 +26,8 @@
   img {
     max-width: 100%;
     height: auto;
+    border-radius: 20px;
+    border: 3px solid black; 
   }
   
   .reglamento-title {

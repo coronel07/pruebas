@@ -89,12 +89,22 @@ function setup() {
 
   //gravedad pelota
   world.gravity.y = 12;
+
   //pausar
-  pauseButton = createButton("Pausa");
-  pauseButton.position(700, 460, 20);
+  pauseButton = createButton("Pause");
+  pauseButton.position(755, 461, 20);
   pauseButton.mouseClicked(pauseGame);
   pauseButton.visible = false;
-  pauseButton.color = green;
+  pauseButton.style('text-decoration', 'none');
+  pauseButton.style('background-color', '#2c436f');
+  pauseButton.style('color', '#eee');
+  pauseButton.style('padding', '6px 12px');
+  pauseButton.style('border-radius', '5px');
+  pauseButton.style('border-color', 'transparent');
+  pauseButton.style('font-weight', 'bold');
+  pauseButton.style('font-size', '20px');
+  pauseButton.style('cursor', 'pointer');
+  pauseButton.style('border', 'none');
 
   obstaculo = new Sprite(425, 120, "s");
   obstaculo.diameter = 100;
@@ -213,14 +223,17 @@ function estetica() {
 
 function pauseGame() {
   if (!paused) {
-    // Pausa el juego
-    paused = true;
-    noLoop();
-    pauseButton.html("Reanudar");
+      // Pausa el juego
+      paused = true;
+      noLoop();
+      pauseButton.html("Restart");
   } else {
-    // Reanuda el juego
-    paused = false;
-    loop();
-    pauseButton.html("Pausa");
+      // Reanuda el juego
+      paused = false;
+      loop();
+      pauseButton.html("Pause");
+
   }
 }
+
+
