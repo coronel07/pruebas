@@ -60,7 +60,7 @@ const clubInfo = {
     }
   },
   Boca: {
-    titulo: "Club Atlético Boca Juniors",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Atlético Boca Juniors",
     descripcion: "El Club Atlético Boca Juniors, conocido como Boca Juniors o simplemente Boca, es uno de los clubes de fútbol más populares y exitosos de Argentina y el mundo. Tiene su sede en el barrio de La Boca, Buenos Aires, y fue fundado el 3 de abril de 1905.",
     historia: "Boca Juniors es uno de los clubes más emblemáticos de Argentina y ha logrado numerosos títulos tanto a nivel nacional como internacional. Su estadio, La Bombonera, es famoso por su atmósfera única y su pasión por el fútbol. El club ha sido hogar de legendarios futbolistas y ha dejado una huella imborrable en la historia del fútbol mundial.",
     estadio: {
@@ -90,7 +90,7 @@ const clubInfo = {
     }
   },
   DefensayJusticia: {
-    titulo: "Club Social y Deportivo Defensa y Justicia",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Social y Deportivo Defensa y Justicia",
     descripcion: "El Club Social y Deportivo Defensa y Justicia, conocido como Defensa y Justicia o simplemente Defensa, es un club de fútbol argentino con sede en Florencio Varela, Buenos Aires. Fue fundado el 20 de marzo de 1935.",
     historia: "Defensa y Justicia es un club que ha experimentado un crecimiento significativo en las últimas décadas. El equipo ha participado en competencias nacionales e internacionales y ha ganado su primer título de liga en la Primera División argentina en la temporada 2020. El Estadio Norberto Tito Tomaghello es el hogar del club y ha sido testigo de estos logros históricos.",
     estadio: {
@@ -110,7 +110,7 @@ const clubInfo = {
     }
   },
   Gimnasia: {
-    titulo: "Club de Gimnasia y Esgrima La Plata",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ Club de Gimnasia y Esgrima La Plata",
     descripcion: "El Club de Gimnasia y Esgrima La Plata, conocido como Gimnasia y Esgrima o simplemente Gimnasia, es un club de fútbol argentino con sede en La Plata, Buenos Aires. Fue fundado el 3 de junio de 1887 y es uno de los clubes más antiguos de Argentina.",
     historia: "Gimnasia y Esgrima La Plata es uno de los clubes más antiguos de Argentina y ha tenido una larga historia en el fútbol argentino. El club ha mantenido una intensa rivalidad con Estudiantes de La Plata, conocido como el clásico platense. El Estadio Juan Carmelo Zerillo, también conocido como El Bosque, es el escenario de estos emocionantes encuentros.",
     estadio: {
@@ -120,7 +120,7 @@ const clubInfo = {
     }
   },
   GodoyCruz: {
-    titulo: "Club Deportivo Godoy Cruz Antonio Tomba",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Deportivo Godoy Cruz Antonio Tomba",
     descripcion: "El Club Deportivo Godoy Cruz Antonio Tomba, conocido como Godoy Cruz, es un club de fútbol argentino con sede en Mendoza, Argentina. Fue fundado el 1 de junio de 1921 y representa a la provincia de Mendoza en el fútbol argentino.",
     historia: "Godoy Cruz es el club más representativo de la provincia de Mendoza en el fútbol argentino. A lo largo de su historia, el equipo ha competido en la Primera División y ha participado en competencias internacionales. El Estadio Malvinas Argentinas es el hogar del club y un lugar de encuentro para los aficionados mendocinos.",
     estadio: {
@@ -150,7 +150,7 @@ const clubInfo = {
     }
   },
   Instituto: {
-    titulo: "Instituto Atlético Central Córdoba",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Instituto Atlético Central Córdoba",
     descripcion: "Instituto Atlético Central Córdoba, conocido como Instituto o simplemente La Gloria, es un club de fútbol argentino con sede en la ciudad de Córdoba. Fue fundado el 8 de agosto de 1918 y ha competido en diversas categorías del fútbol argentino.",
     historia: "Instituto es un club que representa a la ciudad de Córdoba en el fútbol argentino. A lo largo de su historia, el equipo ha competido en diferentes divisiones y ha tenido un papel importante en el deporte de la región. El Estadio Juan Domingo Perón es el hogar del club y ha sido sede de los partidos de Instituto a lo largo de su historia.",
     estadio: {
@@ -190,7 +190,7 @@ const clubInfo = {
     }
   },
   Racing: {
-    titulo: "Racing Club",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Racing Club",
     descripcion: "Racing Club, conocido simplemente como Racing, es uno de los clubes de fútbol más antiguos y exitosos de Argentina. Tiene su sede en Avellaneda, Buenos Aires, y fue fundado el 25 de marzo de 1903.",
     historia: "Racing Club es uno de los clubes más emblemáticos de Argentina y ha ganado numerosos títulos nacionales e internacionales. El club es conocido por su rica historia y su intensa rivalidad con Independiente, conocido como el clásico de Avellaneda. El Estadio Presidente Juan Domingo Perón, también conocido como El Cilindro, es el hogar del club y ha sido escenario de innumerables logros deportivos.",
     estadio: {
@@ -200,7 +200,7 @@ const clubInfo = {
     }
   },
   River: {
-    titulo: "Club Atlético River Plate",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Atlético River Plate",
     descripcion: "El Club Atlético River Plate, conocido como River Plate o simplemente River, es uno de los clubes de fútbol más grandes y exitosos de Argentina y el mundo. Tiene su sede en el barrio de Núñez, Buenos Aires, y fue fundado el 25 de mayo de 1901.",
     historia: "El Club Atlético River Plate es uno de los clubes más prestigiosos de Argentina y ha ganado numerosos títulos nacionales e internacionales. El club es conocido por su rica historia y su intensa rivalidad con Boca Juniors, conocido como el Superclásico. El Estadio Monumental es el hogar del club y ha sido escenario de innumerables hazañas deportivas de River Plate.",
     estadio: {
@@ -210,7 +210,7 @@ const clubInfo = {
     }
   },
   RosarioCentral: {
-    titulo: "Club Atlético Rosario Central",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Atlético Rosario Central",
     descripcion: "El Club Atlético Rosario Central, conocido como Rosario Central o simplemente Central, es un club de fútbol argentino con sede en la ciudad de Rosario, Santa Fe. Fue fundado el 24 de diciembre de 1889 y es uno de los clubes más antiguos de Argentina.",
     historia: "Rosario Central es uno de los clubes más antiguos de Argentina y ha tenido una rica historia en el fútbol nacional. El club ha competido en varias temporadas de la Primera División y ha mantenido una intensa rivalidad con Newell's Old Boys, conocido como el clásico rosarino. El Estadio Gigante de Arroyito es el hogar del club y un lugar emblemático en la ciudad de Rosario.",
     estadio: {
@@ -220,7 +220,7 @@ const clubInfo = {
     }
   },
   SanLorenzo: {
-    titulo: "Club Atlético San Lorenzo de Almagro",
+    titulo: "ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀ㅤㅤ⠀Club Atlético San Lorenzo de Almagro",
     descripcion: "El Club Atlético San Lorenzo de Almagro, conocido como San Lorenzo o simplemente El Ciclón, es uno de los clubes de fútbol más grandes de Argentina. Tiene su sede en el barrio de Boedo, Buenos Aires, y fue fundado el 1 de abril de 1908.",
     historia: "San Lorenzo es uno de los clubes más grandes y exitosos de Argentina y ha ganado numerosos títulos nacionales e internacionales. El club es conocido por su ferviente base de seguidores y su lema 'Los Cuervos'. El Estadio Pedro Bidegain, también conocido como Nuevo Gasómetro, es el hogar del club y ha sido escenario de importantes eventos deportivos.",
     estadio: {
