@@ -34,7 +34,7 @@ function Solaris() {
           {mostrarTuto && (
             <div id="tuto-text">
               <div class="cuadro-amarillo">
-                <img className="control" src="https://ibb.co/VNwHXLy"></img>
+                <img className="control" src="https://i.ibb.co/PYDTBrp/comojugar.png"></img>
               </div>
             </div>
           )}
