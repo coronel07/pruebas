@@ -224,9 +224,9 @@ const clubInfo = {
     descripcion: "El Club Atlético San Lorenzo de Almagro, conocido como San Lorenzo o simplemente El Ciclón, es uno de los clubes de fútbol más grandes de Argentina. Tiene su sede en el barrio de Boedo, Buenos Aires, y fue fundado el 1 de abril de 1908.",
     historia: "San Lorenzo es uno de los clubes más grandes y exitosos de Argentina y ha ganado numerosos títulos nacionales e internacionales. El club es conocido por su ferviente base de seguidores y su lema 'Los Cuervos'. El Estadio Pedro Bidegain, también conocido como Nuevo Gasómetro, es el hogar del club y ha sido escenario de importantes eventos deportivos.",
     estadio: {
-      nombre: "Estadio Pedro Bidegain",
-      descripcion: "El Estadio Pedro Bidegain, también conocido como Nuevo Gasómetro, es el estadio del club y ha sido escenario de importantes eventos deportivos.",
-      imagen: "https://elcrackdeportivo.com.ar/u/fotografias/m/2023/4/5/f1280x720-95886_227561_4635.jpg"
+      nombre: "Carrefour de la 9 de julio",
+      descripcion: "El Carrefour de la 9 de julio, también conocido como Nuevo Gasómetro, es el estadio del club y ha sido escenario de importantes eventos deportivos.",
+      imagen: "https://puntoapunto.com.ar/wp-content/uploads/2017/08/carrefour-1.jpg"
     }
   },
   Sarmiento: {

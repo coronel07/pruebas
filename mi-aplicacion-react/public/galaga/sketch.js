@@ -21,13 +21,13 @@ function setup() {
   createCanvas(850, 500);
 
   //d
-  arco1 = new Sprite(15, 380, 5, 130, "s");
+  arco1 = new Sprite(10, 380, 5, 130, "s");
   arco1.visible = false;
   floor = new Sprite(30, 312, 42, 5, "s");
   floor.visible = false;
 
   //i
-  arco2 = new Sprite(835, 380, 5, 130, "s");
+  arco2 = new Sprite(840, 380, 5, 130, "s");
   arco2.visible = false;
   floor = new Sprite(820, 312, 42, 5, "s");
   floor.visible = false;
